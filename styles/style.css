@@ -1,0 +1,39 @@
+#footer{
+    position: absolute;
+    bottom: 0;
+    width: 99%;
+    height: 8rem; 
+    
+}
+
+hr{color: #fd7b6e;}
+
+a{
+    color: #fd7b6e;
+    font-family: 'Josefin Sans', sans-serif;
+}  
+
+#spotify-logo{
+    vertical-align: middle;
+}
+
+#login-button{
+    display: block;
+    background-color: #fd7b6e;
+    height: 3em;
+    width: 15em;
+    border-radius: 5px;
+    border-color: #d95749; 
+    margin: auto;
+    font-size: 24px;
+    color: #FFFFFF;
+    
+}
+
+#login-button-container{
+    padding-top: 4em;
+}
+
+*{font-family: 'Josefin Sans', sans-serif;}
+
+
